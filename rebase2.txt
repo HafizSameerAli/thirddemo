@@ -2,3 +2,4 @@ working for bease
 
 rebase for master branch
 testing for GUI
+testing for logs
